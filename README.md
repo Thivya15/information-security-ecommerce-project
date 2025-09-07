@@ -58,6 +58,7 @@ domain={import.meta.env.VITE_AUTH0_DOMAIN}
 clientId={import.meta.env.VITE_AUTH0_CLIENT_ID}
 
 ```
-[![Watch the video](https://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![Watch the video]()
+
 
 
