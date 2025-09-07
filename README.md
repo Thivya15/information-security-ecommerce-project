@@ -41,11 +41,9 @@ This is a **secure e-commerce web application** developed as part of the Informa
 
 ## Back-End Setup
 
-Create the MySQL database:
+Create the MySQL database
 
 ```sql
-CREATE DATABASE secure_project1;
-
 DB_USERNAME=your_db_username
 DB_PASSWORD=your_db_password
 AUTH0_ISSUER_URI=https://<your-auth0-domain>/
@@ -59,6 +57,7 @@ clientId={import.meta.env.VITE_AUTH0_CLIENT_ID}
 
 ```
 https://github.com/user-attachments/assets/99de0489-3677-4133-bc92-499ac012b1f3
+
 
 
 
