@@ -58,7 +58,8 @@ domain={import.meta.env.VITE_AUTH0_DOMAIN}
 clientId={import.meta.env.VITE_AUTH0_CLIENT_ID}
 
 ```
-[![Watch the video](https://drive.google.com/drive/u/0/my-drive)
+https://github.com/user-attachments/assets/99de0489-3677-4133-bc92-499ac012b1f3
+
 
 
 
